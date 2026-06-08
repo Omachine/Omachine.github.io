@@ -7,7 +7,7 @@ export default function ProjectsGrid({ projects }) {
         <h2 className="text-4xl md:text-5xl font-bold mb-4 text-center text-ctp-text">
           Featured Projects
         </h2>
-        <p className="text-xl text-ctp-subtext1 text-center mb-12 max-w-2xl mx-auto">
+        <p className="text-xl text-ctp-subtext1 text-center  mb-12 max-w-2xl mx-auto">
           Showcase of my recent work and personal projects built with modern technologies.
         </p>
 

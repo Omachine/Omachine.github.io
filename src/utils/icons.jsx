@@ -6,6 +6,8 @@ import {
   FiFileText,
   FiMusic,
 } from 'react-icons/fi';
+import { IoGameControllerOutline } from 'react-icons/io5';
+
 
 const iconMap = {
   mobile: FiSmartphone,
@@ -14,6 +16,7 @@ const iconMap = {
   cloud: FiCloud,
   'file-text': FiFileText,
   music: FiMusic,
+  game: IoGameControllerOutline,
 };
 
 export function ProjectIcon({ name, size = 60 }) {
